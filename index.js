@@ -1,5 +1,5 @@
-var apiURL = 'https://api.github.com/repos/vuejs/vue/commits?per_page=3&sha='
-
+var apiURL = 'https://api.github.com/repos/etienneYnov/Ynov-Vue/commits?'
+https://github.com/etienneYnov/Ynov-Vue
 /**
  * Actual demo
  */
